@@ -1,0 +1,19 @@
+# FastAPI
+FastAPI
+
+# Uvicorn
+uvicorn
+
+# Pydantic
+pydantic
+
+# Pydantic Settings
+pydantic_settings
+
+# Logfire
+logfire
+
+
+logfire[fastapi]
+
+
